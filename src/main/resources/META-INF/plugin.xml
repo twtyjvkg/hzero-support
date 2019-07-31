@@ -1,0 +1,27 @@
+<idea-plugin>
+    <id>com.hand.ide.plugin.hzero-support</id>
+    <name>HZERO Support</name>
+    <vendor email="twtyjvkg@outlook.com" url="https://www.xuzhao.xin">xuzhao</vendor>
+
+    <description><![CDATA[
+    Supports the development of HZERO applications with IntelliJ IDEA.
+    <br/>
+    <br/>
+    <a href="https://twtyjvkg.github.io/hzero-support/#donation"><strong>donation<strong></a>
+
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
